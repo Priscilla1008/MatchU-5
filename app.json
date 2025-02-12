@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "bec6df5d-625a-4aa2-bb97-641c05e2306a"
+      }
+    },
+    "android": {
+      "package": "com.priscillasamson.matchu_app2"
+    },
+    "ios": {
+      "bundleIdentifier": "com.priscillasamson.matchu-app2"
+    }
+  }
+}
